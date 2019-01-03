@@ -10,7 +10,7 @@ Static Face Detection using OpenCV
 
 # Installing
 
-* Create 2 empty Folders named "dataset"  and "Trainer "in the same directory where the python scripts are.
+* Create 2 empty Folders named "dataset"  and "trainer "in the same directory where the python scripts are.
 
 OR 
 
