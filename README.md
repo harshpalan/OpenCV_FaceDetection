@@ -19,6 +19,7 @@ OR
 # Running the tests
 
 First run the 01_face_dataset.py which will ask you to enter a unique id to create face samples with your face.(I added Elon Musk's picture with Id - 1 and this Id will refered in 03_face_recognition.py)
+<br>
 ![Screenshot 1](https://raw.githubusercontent.com/harshpalan/OpenCV_FaceDetection/master/Screenshots/ss1.png)
 <br>
 <br>
