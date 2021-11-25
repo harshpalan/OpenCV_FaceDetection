@@ -36,4 +36,4 @@ Now Finally run 03_face_recognition.py
 
 <br>
 <br>
-The accuracy was less maybe due to using a image from mobile. It gives approx ~60% accuracy sometimes.😜🙈
+The accuracy was less maybe due to using a image from mobile. It gives approx ~70% to 80% accuracy most of times.
